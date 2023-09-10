@@ -1,1 +1,1 @@
-# 3-intro.png
+1-notebook.png
